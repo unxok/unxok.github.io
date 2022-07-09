@@ -5,8 +5,8 @@ Please note that I am relatively new to learning github and most of this is test
 
 ## TO DO
 
--host page on my personal domain
+- host page on my personal domain
 
--create template for pages
+- create template for pages
 
--actually make it look nice and add content
+- actually make it look nice and add content
