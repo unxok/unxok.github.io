@@ -1,4 +1,5 @@
 # Welcome
+
 Please note that I am relatively new to learning github and most of this is testing and advancing my knowledge of web design. I do NOT need suggestions or critiques right now, this is only for my personal use (as of right now)
 
 ---
@@ -6,6 +7,7 @@ Please note that I am relatively new to learning github and most of this is test
 ## TO DO
 
 - host page on my personal domain
+  -- done
 
 - create template for pages
 
