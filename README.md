@@ -12,3 +12,11 @@ Please note that I am relatively new to learning github and most of this is test
 - create template for pages
 
 - actually make it look nice and add content
+
+### Coffee Shop
+
+- added section for a coffee shop example website
+
+- add carousel using flickity?
+
+- finish other elements of page

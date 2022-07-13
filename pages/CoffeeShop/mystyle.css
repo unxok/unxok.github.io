@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: bisque;
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+}
+
+#title {
+  font-family: "Edu TAS Beginner", cursive;
+  font-weight: unset;
+}
+
+/*************************/
+
+#page-container {
+  background-color: black;
+  height: 100%;
+  width: 60%;
+  min-width: 900px;
+  margin: 0 auto;
+}
+
+/*************************/
+
+#header {
+  background-color: aqua;
+}
+
+#header p {
+  width: 98%;
+  margin: 0;
+  padding: 1%;
+}
+
+/*************************/
+
+#navbar {
+  background-color: aquamarine;
+
+  padding: 1%;
+  position: sticky;
+  top: 0;
+  display: flex;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: black;
+  background-color: bisque;
+  padding: 1%;
+  margin: 0 auto;
+}
+
+/*************************/
+
+#body {
+  background-color: blueviolet;
+  height: 500px;
+  padding: 5px;
+}
+
+#body p {
+  background-color: rgb(219, 127, 255);
+  margin: 10px;
+  padding: 10px;
+}
+
+/*************************/
+
+#footer {
+  background-color: brown;
+  padding: 10px;
+}
+
+.footer-title {
+  width: 100%;
+  text-align: center;
+}
+
+#footer div {
+  display: flex;
+  justify-content: center;
+}
+
+#footer p {
+  color: gray;
+  text-align: center;
+  margin: 20px auto 10px;
+}
+/*************************/
+
+#specials {
+  text-align: center;
+  font-family: "Edu TAS Beginner", cursive;
+}
+
+#menu {
+  background-color: aliceblue;
+}
+
+#team {
+  background-color: aliceblue;
+}
+
+/************************/
+/**images**/
+#the_shop {
+  height: 300px;
+  float: left;
+  padding: 5px;
+  border-radius: 25px;
+}
